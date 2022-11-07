@@ -1,6 +1,6 @@
 # Web App (ToDo List)
 
-![](https://github.com/Plupiks/Landing-Page-Creator-2/blob/faa66cdcbc9f9f13df97f6a643cb3053b4690942/img/creator2.jpg)
+![](https://github.com/Plupiks/Angular-Todolist-v1/blob/b25b324644188e363a7ccdb389d7676d59c26486/todoapp-image.jpg)
 
 ## About:
 You can:
